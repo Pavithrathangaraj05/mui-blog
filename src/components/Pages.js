@@ -6,9 +6,7 @@ import {
   Grid,
   Typography,
 } from "@mui/material";
-import CardMedia from "@mui/material/CardMedia";
-import image from '../images/image.png'
-import React from "react";
+
 import ReadMe from "./ReadMe";
 import { Link, Route, Routes } from "react-router-dom";
 

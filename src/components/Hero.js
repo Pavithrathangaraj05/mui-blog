@@ -1,7 +1,7 @@
 import { Grid, Typography ,Avatar,Box} from "@mui/material";
-import React from "react";
+
 import { Stack } from "react-bootstrap";
-import NewsCard from "./Cards";
+
 import RecipeReviewCard from "./Cards";
 
 const posts = [
