@@ -1,5 +1,5 @@
 import { Divider, Grid, Typography } from "@mui/material";
-import React from "react";
+
 import { Stack } from "react-bootstrap";
 import Card from '@mui/material/Card';
 import CardActions from '@mui/material/CardActions';
@@ -9,23 +9,23 @@ import Button from '@mui/material/Button';
 
 
 
-const cards = [
-  {
-    title: "Mountain View",
-    description: "A breathtaking view of the mountains during sunrise.",
-    image: "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
-  },
-  {
-    title: "Green Fields",
-    description: "Vast green fields under a bright blue sky.",
-    image: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
-  },
-  {
-    title: "Forest Path",
-    description: "A peaceful path through a lush forest.",
-    image: "https://images.unsplash.com/photo-1501785888041-af3ef285b470?ixlib=rb-4.0.3"
-  }
-];
+// const cards = [
+//   {
+//     title: "Mountain View",
+//     description: "A breathtaking view of the mountains during sunrise.",
+//     image: "https://images.unsplash.com/photo-1501785888041-af3ef285b470"
+//   },
+//   {
+//     title: "Green Fields",
+//     description: "Vast green fields under a bright blue sky.",
+//     image: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee"
+//   },
+//   {
+//     title: "Forest Path",
+//     description: "A peaceful path through a lush forest.",
+//     image: "https://images.unsplash.com/photo-1501785888041-af3ef285b470?ixlib=rb-4.0.3"
+//   }
+// ];
 
 const Middle = () => {
   return (
